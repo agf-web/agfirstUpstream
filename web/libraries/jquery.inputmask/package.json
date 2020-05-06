@@ -54,7 +54,7 @@
     "grunt-release": "^0.14.0",
     "grunt-webpack": "^3.0.2",
     "jqlite": "^0.2.42",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
